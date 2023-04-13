@@ -15,10 +15,10 @@ Para estilização do site, é utilizado o CSS.
 
 <h1> :rocket: Como executar</h1>
 - Clone o repositório </br>
-- Instale as dependências com npm install </br>
-- Inicie o servidor com npm run dev  </br>
+- Instale as dependências com npm install ou yarn install </br>
+- Inicie o servidor com npm run dev ou yarn run dev </br>
 
-Agora você pode acessar do seu navegador com o link dsiponibilizado
+Agora você pode acessar do seu navegador com o link disponibilizado
 
 Link do deploy: https://code-leap-test-nine.vercel.app/</br>
 

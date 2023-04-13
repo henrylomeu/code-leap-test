@@ -20,6 +20,6 @@ Para estilização do site, é utilizado o CSS.
 
 Agora você pode acessar do seu navegador com o link dsiponibilizado
 
-Link do deploy: https://restaurante-beta.vercel.app/#contact</br>
+Link do deploy: https://code-leap-test-nine.vercel.app/</br>
 
 Divirta-se!
